@@ -1,0 +1,45 @@
+* {background-color: #212121;}
+
+
+.menu {
+	list-style:none;
+    margin-top: -100px;
+	left: -40px;
+	position: fixed;
+}
+
+.menu li{
+	position:relative;
+	float:left;
+	}
+
+	.menu li a{
+		font-family: 'Courier New', Courier, monospace;
+		color:#A6A9AD; text-decoration:none; padding:8px 10px; display:block; background-color: #101010; font-size: 23px;}
+	.menu li a:hover{color: white;}
+
+	.menu2 {
+		list-style:none;
+		margin-top: -60px;
+		left: -40px;
+		position: fixed;
+	}
+	
+	.menu2 li{
+		position:relative;
+		float:left;
+		}
+	
+		.menu2 li a{
+			font-family: 'Courier New', Courier, monospace;
+			color:#A6A9AD; text-decoration:none; padding:8px 10px; display:block; background-color: #101010; font-size: 23px;}
+		.menu2 li a:hover{color: white;}
+
+.player {
+	margin-top: 100px;
+}
+
+.patrocinado{
+	
+	margin-top: 10px;
+}
